@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Android Dev.
+I'm Android Dev., and working on Deep Learning now.
 
 
 <!--
