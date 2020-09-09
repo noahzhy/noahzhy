@@ -2,6 +2,8 @@
 
 I'm Android Dev., and working on Deep Learning now.
 
+- 💬 Ask me about DL, Android, CV
+
 
 <!--
 **noahzhy/noahzhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
