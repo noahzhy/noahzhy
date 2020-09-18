@@ -2,7 +2,8 @@
 
 I'm Android Dev., and working on Deep Learning now.
 
-- 💬 Ask me about DL, Android, CV
+- 💬 Ask me about Deep Learning (mainly in CV), Android.
+- 🌱 I’m currently learning iot & edge AI.
 
 
 <!--
