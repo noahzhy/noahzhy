@@ -5,6 +5,8 @@ I'm Android Dev., and working on Deep Learning now.
 - 💬 Ask me about Deep Learning (mainly in CV), Android.
 - 🌱 I’m currently learning IoT & Edge AI.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noahzhy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **noahzhy/noahzhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
