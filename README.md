@@ -4,7 +4,8 @@ I'm Android Dev., and working on Deep Learning now.
 
 - 🌱 I’m learning IoT & Edge AI recently.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noahzhy)](https://github.com/anuraghazra/github-readme-stats)
+[![Noahzhy's github stats](https://github-readme-stats.vercel.app/api?username=noahzhy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahzhy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
