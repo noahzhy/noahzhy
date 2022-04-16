@@ -4,10 +4,8 @@ I'm Android Dev., and working on Deep Learning now.
 
 - 🌱 I’m learning IoT & Edge AI recently.
 
-[![Noahzhy's github stats](https://github-readme-stats.vercel.app/api?username=noahzhy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahzhy&layout=compact&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
-
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=noahzhy&show_icons=true&hide_border=true" alt="Noahzhy's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahzhy&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **noahzhy/noahzhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
