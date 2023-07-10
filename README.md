@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Android Dev., and working on Deep Learning now.
+I'm Android Dev., and working on edge computing and synthetic data.
 
-- 🌱 I’m learning IoT & Edge AI recently.
+- Enjoying coffee, movies and graphic design
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=noahzhy&show_icons=true&hide_border=true" alt="Noahzhy's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahzhy&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
